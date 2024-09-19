@@ -15,6 +15,8 @@
 - `background.js` El script
 - `options.js` y `options.xhtml` Menú para configurar el servidor de datos
 
+---
+
 ## Servidor
 
 `about:debugging`
@@ -41,3 +43,10 @@ sudo nano /etc/hosts
 Añadir excepción
 
 `about:preferences#privacy`
+
+---
+
+### Créditos
+
+https://github.com/twilight1794/grindelwald
+
